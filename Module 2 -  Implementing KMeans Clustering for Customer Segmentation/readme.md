@@ -1,14 +1,10 @@
-Assignment Instructions
 
-Implementing KMeans Clustering for Customer Segmentation
-Objective:
+**Implementing KMeans Clustering for Customer Segmentation**
+
+**Objective**:
 Apply the KMeans clustering technique to perform customer segmentation with a real-world dataset not provided in the lesson. This will involve sourcing a suitable dataset, conducting an exploratory data analysis, preprocessing the data, applying the KMeans clustering algorithm, and interpreting the results to gain insights into different customer segments.  Guide is hereLinks to an external site..
 
-Materials Needed:
-A computer with internet access.
-Python programming environment (like Jupyter Notebook or Google Colab).
-Libraries: pandas, matplotlib, sklearn.
-Instructions:
+**Instructions**:
 1. Dataset Sourcing:
 Find a dataset that includes customer transactions. This could be from online sources such as Kaggle, UCI Machine Learning Repository, or any other open-source data repository.
 
